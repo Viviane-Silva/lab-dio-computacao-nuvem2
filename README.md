@@ -8,8 +8,6 @@ Este repositório apresenta um resumo dos principais benefícios da **computaç�
 
 ---
 
-## Principais Benefícios
-
 ### Escalabilidade
 
 - Permite aumentar ou reduzir recursos sob demanda.
